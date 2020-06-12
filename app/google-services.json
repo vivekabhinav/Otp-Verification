@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528282974894",
+    "firebase_url": "https://phoneotp-39302.firebaseio.com",
+    "project_id": "phoneotp-39302",
+    "storage_bucket": "phoneotp-39302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528282974894:android:db6b51d16eeda10469cb3f",
+        "android_client_info": {
+          "package_name": "com.abhinav.phoneotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528282974894-534i5jjhbfojfvb8n7ulk0ufdr0k90ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6kXcsIdCmOw8zGkD1bSo9EYktf_gRuNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528282974894-534i5jjhbfojfvb8n7ulk0ufdr0k90ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
